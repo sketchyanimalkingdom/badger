@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf1A82E931c58e521ACfFE3FEa83133D53cE09e17",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf1a82e931c58e521acffe3fea83133d53ce09e17",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Sketchy Animal Kingdom Badger",
+  "SYMBOL": "SAKB",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "OpeanSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sketchy-animal-kingdom-badger", 
+  "SHOW_BACKGROUND": true
+}
