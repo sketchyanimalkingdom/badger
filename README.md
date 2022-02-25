@@ -1,4 +1,4 @@
-# Welcome to Sketchy Animal Kingdoms Badger
+# Welcome to Sketchy Animal Kingdom Badger
 
 This repo is the Minting Dapp for the Sketchy Animal Kingdom Badger NFT Collection. The collection can be found on OpenSea.
 
